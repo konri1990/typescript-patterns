@@ -1,5 +1,5 @@
 "use strict";
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 var TotalHoursRemoteOperation = /** @class */ (function () {
     function TotalHoursRemoteOperation() {
     }
@@ -9,3 +9,4 @@ var TotalHoursRemoteOperation = /** @class */ (function () {
     return TotalHoursRemoteOperation;
 }());
 exports.TotalHoursRemoteOperation = TotalHoursRemoteOperation;
+//# sourceMappingURL=TotalHoursRemoteOperation.js.map

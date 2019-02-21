@@ -17,7 +17,7 @@ export class PlayerContext {
         this._state.pressPlay(this);
     }
 
-    private getState(): StatePattern.IState {
+    public getState(): StatePattern.IState {
         return this._state;
     }
 }

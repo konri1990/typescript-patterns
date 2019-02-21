@@ -1,5 +1,5 @@
 "use strict";
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 var TotalHoursRemoteOperation_1 = require("./TotalHoursRemoteOperation");
 // it's example how we can use proxy pattern for 'caching'
 // specially usefull when calculate operation take too long time,
@@ -28,3 +28,4 @@ var TotalHoursCacheOperation = /** @class */ (function () {
     return TotalHoursCacheOperation;
 }());
 exports.TotalHoursCacheOperation = TotalHoursCacheOperation;
+//# sourceMappingURL=TotalHoursCacheOperation.js.map

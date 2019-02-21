@@ -1,5 +1,5 @@
 "use strict";
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 // inspiration http://www.dotnettricks.com/learn/designpatterns/template-method-design-pattern-c-sharp
 var BaseRender = /** @class */ (function () {
     function BaseRender() {
@@ -12,3 +12,4 @@ var BaseRender = /** @class */ (function () {
     return BaseRender;
 }());
 exports.BaseRender = BaseRender;
+//# sourceMappingURL=BaseRender.js.map

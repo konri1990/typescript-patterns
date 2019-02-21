@@ -9,7 +9,7 @@ var __extends = (this && this.__extends) || (function () {
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
 })();
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 var BaseRender_1 = require("./BaseRender");
 var RenderHtml = /** @class */ (function (_super) {
     __extends(RenderHtml, _super);
@@ -31,3 +31,4 @@ var RenderHtml = /** @class */ (function (_super) {
     return RenderHtml;
 }(BaseRender_1.BaseRender));
 exports.RenderHtml = RenderHtml;
+//# sourceMappingURL=RenderHtml.js.map

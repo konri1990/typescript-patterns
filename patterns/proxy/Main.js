@@ -1,5 +1,5 @@
 "use strict";
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 var WorkingData_1 = require("./WorkingData");
 var TotalHoursCacheOperation_1 = require("./TotalHoursCacheOperation");
 // example of template method pattern
@@ -17,3 +17,4 @@ var Startup = /** @class */ (function () {
     return Startup;
 }());
 Startup.Start();
+//# sourceMappingURL=Main.js.map

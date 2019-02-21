@@ -1,5 +1,5 @@
 "use strict";
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 var WorkingData = /** @class */ (function () {
     function WorkingData(hours, days, months) {
         this.hours = hours;
@@ -9,3 +9,4 @@ var WorkingData = /** @class */ (function () {
     return WorkingData;
 }());
 exports.WorkingData = WorkingData;
+//# sourceMappingURL=WorkingData.js.map

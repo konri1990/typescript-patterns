@@ -1,5 +1,5 @@
 "use strict";
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 var RenderHtml_1 = require("./RenderHtml");
 var RenderXml_1 = require("./RenderXml");
 // example of template method pattern
@@ -18,3 +18,4 @@ var Startup = /** @class */ (function () {
     return Startup;
 }());
 Startup.Start();
+//# sourceMappingURL=Main.js.map

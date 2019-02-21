@@ -1,5 +1,5 @@
 "use strict";
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 var PlayerContext_1 = require("./PlayerContext");
 var PlayState_1 = require("./PlayState");
 var PauseState_1 = require("./PauseState");
@@ -22,3 +22,4 @@ var Startup = /** @class */ (function () {
     return Startup;
 }());
 Startup.Start();
+//# sourceMappingURL=Main.js.map

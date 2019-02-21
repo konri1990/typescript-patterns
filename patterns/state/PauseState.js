@@ -1,5 +1,5 @@
 "use strict";
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 var PlayState_1 = require("./PlayState");
 var PauseState = /** @class */ (function () {
     function PauseState() {
@@ -13,3 +13,4 @@ var PauseState = /** @class */ (function () {
     return PauseState;
 }());
 exports.PauseState = PauseState;
+//# sourceMappingURL=PauseState.js.map

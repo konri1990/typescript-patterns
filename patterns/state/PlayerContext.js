@@ -1,5 +1,5 @@
 "use strict";
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 var PlayerContext = /** @class */ (function () {
     function PlayerContext(state) {
         this._state = state;
@@ -17,3 +17,4 @@ var PlayerContext = /** @class */ (function () {
     return PlayerContext;
 }());
 exports.PlayerContext = PlayerContext;
+//# sourceMappingURL=PlayerContext.js.map
